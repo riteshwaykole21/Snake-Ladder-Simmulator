@@ -35,7 +35,7 @@ namespace SnakeAndLadder
                         }
                         break;
                 }
-                //Console.WriteLine("The standin Position of Player is :" + this.standingPositionofPlayer + " " + "with a roll of " + dieRoll);
+                //Console.WriteLine("The standin Position of Player is :" + this.standingPositionofPlayer + " " + "with a roll of " + dieRoll); s
             }
             Console.WriteLine("The Player wins the ame");
         }
